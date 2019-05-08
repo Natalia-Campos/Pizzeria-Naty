@@ -15,7 +15,7 @@ import org.pedido.detalle.de.pedido.DetallePedido;
 
 /**
  * 
- * @author ewiedermann
+ * @author Naty
  */
 public class Factura {
     private Date fechaHoraEmision;
